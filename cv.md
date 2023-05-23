@@ -24,7 +24,7 @@ My name is Ilya, I'm 20 and I'm junior frontend developer. I'm hardworking and a
 ## Projects
 * [Songbird](https://ilyas022.github.io/Songbird/)
 * [Gem-Puzzle](https://ilyas022.github.io/Gem-Puzzle/)
-* [Online-zoo](https://github.com/Ilyas022/Online-zoo)
+* [Online-zoo](https://ilyas022.github.io/Online-zoo/)
 * [Travel](https://ilyas022.github.io/Travel/)
 
 ## Education 
