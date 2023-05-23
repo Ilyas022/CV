@@ -3,6 +3,7 @@
 ## Contacts:
 * E-mail: [ilyashchetko.work@gmail.com](mailto:ilyashchetko.work@gmail.com)
 * Telegram: [Ilya Shchetko](https://t.me/ilya_shchetko)
+* Github: [Ilyas022](https://github.com/Ilyas022)
 
 ## A few words about me
 My name is Ilya, I'm 20 and I'm junior frontend developer. I'm hardworking and active person, ready to learn and develop. I'm very fond of web development, in my opinion, this is what I would like to connect my life with.
@@ -19,6 +20,12 @@ My name is Ilya, I'm 20 and I'm junior frontend developer. I'm hardworking and a
 * Git
 * Webpack / Gulp
 * Prettier / Eslint
+
+## Projects
+* [Songbird](https://ilyas022.github.io/Songbird/)
+* [Gem-Puzzle](https://ilyas022.github.io/Gem-Puzzle/)
+* [Online-zoo](https://github.com/Ilyas022/Online-zoo)
+* [Travel](https://ilyas022.github.io/Travel/)
 
 ## Education 
 * Minsk Radiotechnical College
